@@ -1,2 +1,2 @@
 # IP-NLP
-NLP Independent Project for Postgraduate Studies
+NLP Independent Project for course CSIT6910A
