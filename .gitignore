@@ -1,4 +1,5 @@
 __pycache__/json.cpython-312.pyc
 Eval. Results/
 Fine-tuned Results/
-
+test_tiny_stories.py
+.DS_Store
